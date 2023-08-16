@@ -1,4 +1,10 @@
-### Hi there 👋
+# Halo semua! 👋
+
+Perkenalkan nama saya **Lintang Yandi Nugraha**.
+
+Saya seorang **Web Developer**.
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/lintang-yandi-nugraha-631598223/)ku ya.
 
 <!--
 **yandi-nugraha/yandi-nugraha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
