@@ -1,10 +1,10 @@
-# Halo semua! 👋
+# Hello! 👋
 
-Perkenalkan nama saya **Lintang Yandi Nugraha**.
+Welcome to my GitHub profile!
 
-Saya seorang **Web Developer**.
+I'm **Lintang Yandi Nugraha**, a dedicated web developer passionate about crafting engaging and functional online experiences. With expertise in both front-end and back-end web development, I thrive on leveraging cutting-edge technologies to deliver innovative solutions.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/lintang-yandi-nugraha-631598223/)ku ya.
+Feel free to explore my LinkedIn profile to discover more about my experience and projects: [LinkedIn](https://www.linkedin.com/in/lintang-yandi-nugraha-631598223/). Let's collaborate and build something great together!"
 
 <p align="left">
 <a href="https://github.com/gilangadhan">
